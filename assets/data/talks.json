@@ -1,0 +1,76 @@
+{
+    "iot": [
+        {
+            "name":"anne Lindstrøm",
+            "headline": "Sikkerhedsudfordringer i IoT og hvordan Ubuntu kan hjælpe med at håndtere dem",
+            "description": "denne præsentation vil fokusere på de sikkerhedsmæssige udfordringer, der er forbundet med IoT-enheder, og hvordan Ubuntu kan hjælpe med at håndtere disse udfordringer.",
+            "long": "IoT-enheder er blevet stadig mere populære, men med den stigende popularitet kommer også øgede sikkerhedsrisici. Denne præsentation vil fokusere på sikkerhedsudfordringerne i forbindelse med IoT-enheder og hvordan Ubuntu kan hjælpe med at håndtere dem. Ubuntu har et stærkt fokus på sikkerhed og har en række værktøjer, der kan hjælpe med at sikre IoT-enheder mod hacking og andre trusler.",
+            "imgUrl": "http://placekitten.com/300/300"
+        },
+        {
+            "name":"helene Langesø",
+            "headline": "Ubuntu og Internet of Things: Introduktion til Snaps",
+            "description": "denne præsentation vil give en introduktion til Snaps, en pakkeformat til Ubuntu, der gør det nemmere at installere og vedligeholde IoT-applikationer.",
+            "long": "Snaps er en ny pakkeformat til Ubuntu, der er designet til at gøre det nemmere at installere og vedligeholde IoT-applikationer. Denne præsentation vil give en introduktion til Snaps og forklare, hvordan det kan hjælpe med at gøre det lettere at implementere IoT-applikationer på Ubuntu-enheder. Præsentationen vil også fokusere på de fordele, som Snaps kan tilbyde IoT-udviklere, såsom en nem måde at distribuere softwareopdateringer og sikkerhedsopdateringer.",
+            "imgUrl": "http://placekitten.com/300/300"
+        },
+        {
+            "name":"Tom Simonsen",
+            "headline": "Ubuntu Core: En letvægtsversion af Ubuntu til IoT-enheder",
+            "description": "denne præsentation vil give en introduktion til Ubuntu Core, en version af Ubuntu, der er specielt designet til at køre på IoT-enheder med begrænset hardwarekapacitet.",
+            "long": "Ubuntu Core er en letvægtsversion af Ubuntu, der er specielt designet til at køre på IoT-enheder med begrænset hardwarekapacitet. Denne præsentation vil give en introduktion til Ubuntu Core og forklare, hvordan det kan hjælpe med at forbedre ydeevnen og sikkerheden på IoT-enheder. Præsentationen vil også omfatte en gennemgang af nogle af de vigtigste funktioner i Ubuntu Core, såsom automatisk softwareopdatering og et sandbox-miljø til sikkerhed.",
+            "imgUrl": "http://placekitten.com/300/300"
+        },
+        {
+            "name":"Signe Strøm",
+            "headline": "Dataanalyse i IoT: Hvordan Ubuntu kan hjælpe med at håndtere store datamængder",
+            "description": "denne præsentation vil fokusere på de udfordringer, der er forbundet med dataanalyse i IoT, og hvordan Ubuntu kan hjælpe med at håndtere store datamængder.",
+            "long": "IoT-enheder genererer enorme mængder af data, og at analysere denne data kan give værdifuld indsigt. Denne præsentation vil fokusere på, hvordan Ubuntu kan hjælpe med at håndtere store datamængder i IoT-miljøer. Præsentationen vil også omfatte en gennemgang af nogle af de værktøjer og teknologier, der er tilgængelige i Ubuntu, der kan hjælpe med at forenkle dataanalyseprocessen.",
+            "imgUrl": "http://placekitten.com/300/300"
+        },
+        {
+            "name":"Arne Elg",
+            "headline": "Ubuntu og AI: Fremtiden for IoT",
+            "description": "denne præsentation vil diskutere, hvordan AI kan anvendes til at forbedre IoT-enheder og hvordan Ubuntu kan spille en central rolle i denne udvikling.",
+            "long": "Kunstig intelligens (AI) er en teknologi, der har potentiale til at revolutionere IoT. Denne præsentation vil diskutere, hvordan AI kan anvendes til at forbedre IoT-enheder, og hvordan Ubuntu kan spille en central rolle i denne udvikling. Præsentationen vil omfatte en gennemgang af nogle af de AI-teknologier, der er tilgængelige i Ubuntu, såsom TensorFlow og Keras, samt diskutere, hvordan disse teknologier kan anvendes i IoT-miljøer.",
+            "imgUrl": "http://placekitten.com/300/300"
+        }
+    ],
+    "desktop": [
+        {
+            "name":"Annie hald",
+            "headline": "Ubuntu 22.04",
+            "description": "Hvad der er nyt i den nyeste version",
+            "long": "Denne præsentation vil fokusere på de nye funktioner og forbedringer i Ubuntu 22.04. Det vil omfatte en gennemgang af de seneste opdateringer til desktop-miljøet og forklare, hvordan disse kan forbedre brugeroplevelsen for Ubuntu-brugere. Præsentationen vil også omfatte en gennemgang af nogle af de nye applikationer og værktøjer, der er tilgængelige i den nye version.",
+            "imgUrl": "http://placekitten.com/300/300"
+        },
+        {
+            "name":"JesperLand",
+            "headline": "Ubuntu og virtualisering",
+            "description": "Hvordan man kan køre Windows-applikationer på Ubuntu-desktop",
+            "long": "Virtualisering er en teknologi, der gør det muligt at køre Windows-applikationer på en Ubuntu-desktop. Denne præsentation vil fokusere på, hvordan man kan anvende virtualisering på Ubuntu og forklare, hvordan det kan hjælpe med at køre Windows-applikationer på en Ubuntu-desktop. Præsentationen vil også omfatte en gennemgang af nogle af de populære virtualiseringsværktøjer, der er tilgængelige på Ubuntu.",
+            "imgUrl": "http://placekitten.com/300/300"
+        },
+        {
+            "name":"peter Nielsen",
+            "headline": "Ubuntu og gaming",
+            "description": "Forbedring af spilydelse og support",
+            "long": "Gaming på Ubuntu-desktop er blevet stadig mere populært, og der er en række værktøjer og applikationer, der er tilgængelige for at forbedre spilydelsen og supporten. Denne præsentation vil fokusere på, hvordan Ubuntu kan hjælpe med at forbedre gaming-oplevelsen for brugere og give en gennemgang af nogle af de bedste spil og værktøjer, der er tilgængelige på Ubuntu.",
+            "imgUrl": "http://placekitten.com/300/300"
+        },
+        {
+            "name":"Line sørensen",
+            "headline": "Ubuntu og produktivitet",
+            "description": "Tips og tricks til at arbejde mere effektivt",
+            "long": "Ubuntu-desktop kan hjælpe brugere med at arbejde mere effektivt og produktivt. Denne præsentation vil fokusere på nogle af de bedste tips og tricks til at maksimere produktiviteten på en Ubuntu-desktop. Præsentationen vil også omfatte en gennemgang af nogle af de bedste applikationer og værktøjer til produktivitet, der er tilgængelige på Ubuntu.",
+            "imgUrl": "http://placekitten.com/300/300"
+        },
+        {
+            "name":"Jørgen ege",
+            "headline": "Ubuntu og customization",
+            "description": "Tilpasning af desktop-miljøet efter egne præferencer",
+            "long": "En af de store fordele ved Ubuntu er muligheden for at tilpasse desktop-miljøet efter egne præferencer. Denne præsentation vil fokusere på, hvordan man kan tilpasse Ubuntu-desktop-miljøet efter egne præferencer. Det vil omfatte en gennemgang af nogle af de bedste tilpasningsværktøjer og applikationer, der er tilgængelige på Ubuntu, og give nogle eksempler på, hvordan man kan tilpasse desktop-miljøet for at få den bedste brugeroplevelse.",
+            "imgUrl": "http://placekitten.com/300/300"
+        }
+    ]
+}
